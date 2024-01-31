@@ -1,17 +1,3 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-html {
-  font-size: 10px;
-}
-body {
-  font-size: 1.4rem;
-  font-family: sans-serif;
-  color: hsl(220, 4%, 17%);
-}
-
 .container {
   width: 50vw;
   display: grid;
@@ -66,3 +52,5 @@ ul {
   padding: 0.8rem;
   color: hsl(0, 0%, 100%);
 }
+
+/* CONTENT BASED LAI FLEXBOX USE GARNEY */
