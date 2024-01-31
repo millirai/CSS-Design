@@ -6,6 +6,8 @@
   column-gap: 1.6rem;
   row-gap: 0.4rem;
   background-color: hsl(220, 33%, 98%);
+  font-family: sans-serif;
+  color: hsl(220, 4%, 17%);
 }
 
 .listItems > h2 {
